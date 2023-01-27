@@ -12,7 +12,7 @@ const langData = [
     {
         id: 'es',
         title: 'Hola y bienvenido al sitio.',
-        subtitle: 'Descubra nuestras prestaciones y servicios  !',
+        subtitle: 'Descubra nuestras prestaciones y servicios !',
     },
 ]
 
